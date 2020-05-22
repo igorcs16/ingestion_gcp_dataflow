@@ -8,6 +8,7 @@ conforme arquitetura;
 - Versão do python: 3.7
 - Instalar a dependência da lib apache-beam em requirements.txt - 'pip install -r requirements.txt'
 - Criar um dataset no BigQuery para o armazenamento das tabelas
+- Criar um bucket para o DataFlow
 
 ## Etapas:
 1. Os arquivos price_quote.csv, bill_of_materials.csv e comp_boss.csv já estão salvos no bucket gs://data-dotz/
