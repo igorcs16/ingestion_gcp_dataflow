@@ -14,7 +14,7 @@ conforme arquitetura;
 
 2. Para iniciar o processo de ingestão basta executar o script init_main.sh que será responsável por fazer o looping e acionar o main.py para criar os jobs/pipelines para cada arquivo no dataflow.
 
-3. Como executar e parâmetro:
+3. Como executar e parâmetros:
 
 $ bash init_main.sh project temp_location dataset
   - project: projeto do GCP
