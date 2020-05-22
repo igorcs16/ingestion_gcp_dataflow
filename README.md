@@ -3,7 +3,6 @@ Esse projeto tem o objetivo de fazer a ingestão de arquivos csv salvos no cloud
 conforme arquitetura;
 
 ![Alt text](img/Arquitetura.png?raw=true "Arquitetura")
-
 Etapas:
 1. Os arquivos price_quote.csv, bill_of_materials.csv e comp_boss.csv já estão salvos no bucket gs://data-dotz/
 
